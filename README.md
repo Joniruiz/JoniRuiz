@@ -2,7 +2,7 @@
 
 Soy Desarrollador Web Jr 
 
-`let name: "Ruiz Jonathan"
+`let name: "Ruiz Jonathan" <br> 
  Ocupation: Web Developer Jr.`
 
 <!--
