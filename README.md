@@ -2,7 +2,7 @@
 
 Soy Desarrollador Web Jr 
 
-{name: "Ruiz Jonathan"}
+//{name: "Ruiz Jonathan"}
 
 <!--
 **Joniruiz/JoniRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
