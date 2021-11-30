@@ -4,7 +4,7 @@ Soy Desarrollador Web Jr
 
 `let name: "Ruiz Jonathan"` <br> 
  `Ocupation: Web Developer Jr.`
- <code>Hola Soy Jonathan Ruiz <code/>
+
 
 <!--
 **Joniruiz/JoniRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
