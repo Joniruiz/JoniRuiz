@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bienvenidos+a+mi+Github)](https://git.io/typing-svg)
 
+Soy Desarrollador Web Jr 
+
+{name: "Ruiz Jonathan"}
 
 <!--
 **Joniruiz/JoniRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
