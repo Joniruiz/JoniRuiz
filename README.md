@@ -2,6 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/jonathan-ruizz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ruizz/)
 
+<h1>Tecnologias</h1>
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 ```js
 const Jona ={
 Tecnologias: { JavaScript
