@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bienvenidos+a+mi+Github)](https://git.io/typing-svg)
 
-Soy Desarrollador Web Jr 
-
-`let name: "Ruiz Jonathan"` <br> 
- `Ocupation: Web Developer Jr.`
+```js
+const Jona ={
+Tecnologias: [Javascript, HTML, CSS, React]}`
 
 
 <!--
